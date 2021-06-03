@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # movie-app
 
 ## Project setup
@@ -29,3 +30,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 aa
+=======
+# test
+>>>>>>> 7f5a2004d91a3fd94cb49966e65d282a03d5b5dc
