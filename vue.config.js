@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/<repository_name>',
+  publicPath: '/movie-app',
   outputDir: 'docs',
   transpileDependencies: [
     'vuetify'
